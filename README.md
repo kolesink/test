@@ -1,3 +1,4 @@
+Задание выполнено на следующем ПО
 Vagrant ver 2.2.18
 packer_1.4.4
 VirtualBox 6.1
